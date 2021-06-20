@@ -1,0 +1,10 @@
+### Skills
+- HTML
+- CSS
+- JS
+- Bootstarp
+- JQuery
+- PHP
+- MYSQL
+- React
+- Angular
